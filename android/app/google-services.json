@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "244285745822",
+    "firebase_url": "https://mobi2sales.firebaseio.com",
+    "project_id": "mobi2sales",
+    "storage_bucket": "mobi2sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244285745822:android:1eaa0055e2d4c03c7a698f",
+        "android_client_info": {
+          "package_name": "com.moby4sale_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244285745822-2oe5noc1m7l7472852446dblbbruoqkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8sv3AtFIPGH5FdLnzW432bwiWdIaH8o"
+        }
+      ],  
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244285745822-2oe5noc1m7l7472852446dblbbruoqkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+ 
+  ],
+  "configuration_version": "1"
+}
